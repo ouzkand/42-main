@@ -10,5 +10,4 @@ and some other very basic gameplay elements.
 
 
 
-https://user-images.githubusercontent.com/95627071/215087650-c88bc433-e1e3-4e26-ba6c-97657de4df00.mp4
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/95627071/215088068-f6e9334d-8ff0-42a6-b05d-94d90dedccdf.gif)
