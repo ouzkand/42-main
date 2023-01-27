@@ -8,5 +8,7 @@ and some other very basic gameplay elements.
 
 [so_long_kurulum.pdf](https://github.com/ouzkand/42-main/files/10518563/so_long_kurulum.pdf)
 
-<img width="2176" alt="Ekran Resmi 2023-01-27 ÖS 3 07 25" src="https://user-images.githubusercontent.com/95627071/215083030-2f6a06de-86a6-454d-b43f-f8ecdf096480.png">
+
+
+https://user-images.githubusercontent.com/95627071/215087650-c88bc433-e1e3-4e26-ba6c-97657de4df00.mp4
 
