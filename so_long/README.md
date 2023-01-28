@@ -23,9 +23,9 @@ First we type `make` in our terminal
 then we write `./so_long map_adress`
 for example `./so_long maps/map1.ber`
 | KEYBOARD  | ACTION  |
-| --|:-------:|
+| :--:|:-------:|
 |`W`| Move up  |
 |`S`| Move down  |
 | `A` | Move left    |
 | `D` | Move right    |
-| ESC| Close the game window   |
+| `ESC`| Close the game window   |
