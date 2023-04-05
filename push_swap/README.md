@@ -4,5 +4,3 @@ types of algorithms and choose the most appropriate solution (out of many) for a
 optimized data sorting.
 
 <img width="201" alt="Ekran Resmi 2023-02-09 ÖS 3 46 26" src="https://user-images.githubusercontent.com/95627071/217816629-f3fa467e-ed7a-471f-8063-6be96d96aa93.png">
-
-[push_swap.pdf](https://github.com/ouzkand/42-main/files/10697242/push_swap.pdf)
